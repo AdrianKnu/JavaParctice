@@ -1,0 +1,203 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "Libreria.App",
+            "projectName": "JavaParctice_29ae8c8f"
+        },
+        {
+            "type": "java",
+            "name": "AplicacionBancaria",
+            "request": "launch",
+            "mainClass": "Banco.AplicacionBancaria",
+            "projectName": "JavaParctice_29ae8c8f"
+        },
+        {
+            "type": "java",
+            "name": "Application",
+            "request": "launch",
+            "mainClass": "EnumsPractica.Application",
+            "projectName": "JavaParctice_29ae8c8f"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "Biblioteca.App",
+            "projectName": "JavaParctice_29ae8c8f"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Liga_futbol.Main",
+            "projectName": "JavaParctice_29ae8c8f"
+        },
+        {
+            "type": "java",
+            "name": "Application",
+            "request": "launch",
+            "mainClass": "sistema_gestion.Application",
+            "projectName": "JavaParctice_29ae8c8f"
+        },
+        {
+            "type": "java",
+            "name": "Barraestado",
+            "request": "launch",
+            "mainClass": "Barraestado",
+            "projectName": "JavaParctice_29ae8c8f"
+        },
+        {
+            "type": "java",
+            "name": "Primosnumeros",
+            "request": "launch",
+            "mainClass": "Primosnumeros",
+            "projectName": "JavaParctice_29ae8c8f"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "JavaParctice_29ae8c8f"
+        },
+        {
+            "type": "java",
+            "name": "Contrasena",
+            "request": "launch",
+            "mainClass": "Contrasena",
+            "projectName": "JavaParctice_29ae8c8f"
+        },
+        {
+            "type": "java",
+            "name": "Arrayando",
+            "request": "launch",
+            "mainClass": "Arrayando",
+            "projectName": "JavaParctice_29ae8c8f"
+        },
+        {
+            "type": "java",
+            "name": "ContarOcurrencia",
+            "request": "launch",
+            "mainClass": "ContarOcurrencia",
+            "projectName": "JavaParctice_29ae8c8f"
+        },
+        {
+            "type": "java",
+            "name": "ContandoElementos",
+            "request": "launch",
+            "mainClass": "ContandoElementos",
+            "projectName": "JavaParctice_29ae8c8f"
+        },
+        {
+            "type": "java",
+            "name": "PromedioElementos",
+            "request": "launch",
+            "mainClass": "PromedioElementos",
+            "projectName": "JavaParctice_29ae8c8f"
+        },
+        {
+            "type": "java",
+            "name": "Desafio1",
+            "request": "launch",
+            "mainClass": "Desafio1",
+            "projectName": "JavaParctice_29ae8c8f"
+        },
+        {
+            "type": "java",
+            "name": "Redondeo",
+            "request": "launch",
+            "mainClass": "Redondeo",
+            "projectName": "JavaParctice_29ae8c8f"
+        },
+        {
+            "type": "java",
+            "name": "CalculandoCadenas",
+            "request": "launch",
+            "mainClass": "CalculandoCadenas",
+            "projectName": "JavaParctice_29ae8c8f"
+        },
+        {
+            "type": "java",
+            "name": "ConversionMm",
+            "request": "launch",
+            "mainClass": "ConversionMm",
+            "projectName": "JavaParctice_29ae8c8f"
+        },
+        {
+            "type": "java",
+            "name": "Concatenacion",
+            "request": "launch",
+            "mainClass": "Concatenacion",
+            "projectName": "JavaParctice_29ae8c8f"
+        },
+        {
+            "type": "java",
+            "name": "Longitud",
+            "request": "launch",
+            "mainClass": "Longitud",
+            "projectName": "JavaParctice_29ae8c8f"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ClasificadorParImpar",
+            "request": "launch",
+            "mainClass": "ClasificadorParImpar",
+            "projectName": "JavaParctice_29ae8c8f"
+        },
+        {
+            "type": "java",
+            "name": "Desafio2",
+            "request": "launch",
+            "mainClass": "Desafio2",
+            "projectName": "JavaParctice_29ae8c8f"
+        },
+        {
+            "type": "java",
+            "name": "Descuento",
+            "request": "launch",
+            "mainClass": "Descuento",
+            "projectName": "JavaParctice_29ae8c8f"
+        },
+        {
+            "type": "java",
+            "name": "Divisibilidad",
+            "request": "launch",
+            "mainClass": "Divisibilidad",
+            "projectName": "JavaParctice_29ae8c8f"
+        },
+        {
+            "type": "java",
+            "name": "FiguraGeometrica",
+            "request": "launch",
+            "mainClass": "FiguraGeometrica",
+            "projectName": "JavaParctice_29ae8c8f"
+        },
+        {
+            "type": "java",
+            "name": "ImprimiendoInfo",
+            "request": "launch",
+            "mainClass": "ImprimiendoInfo",
+            "projectName": "JavaParctice_29ae8c8f"
+        },
+        {
+            "type": "java",
+            "name": "TiposDatos",
+            "request": "launch",
+            "mainClass": "TiposDatos",
+            "projectName": "JavaParctice_29ae8c8f"
+        }
+    ]
+}
